@@ -72,7 +72,7 @@ $(document).ready(function () {
 
   //ripples
   $("#header, .info").ripples({
-    dropRadius: 20,
+    dropRadius: 10,
     perturbance: 1.0,
 
   });
