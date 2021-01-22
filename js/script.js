@@ -73,7 +73,7 @@ $(document).ready(function () {
   //ripples
   $("#header, .info").ripples({
     dropRadius: 20,
-    perturbance: 5.0,
+    perturbance: 1.0,
 
   });
 //magnific popup
