@@ -5,6 +5,6 @@ https://pritish-wakhare.github.io/Response-Front-end-of-website-Fish-World-/
 
 
 
-[PriTish](https://pritish-wakhare.github.io/My-Portfolio-/)
+[PriTish Wakhare](https://pritish-wakhare.github.io/My-Portfolio-/)
 ## Credits
 Big Thanks To [Chekit Marpak](https://github.com/chekitmarpak)
